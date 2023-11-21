@@ -9,14 +9,11 @@ User-Friendly Interface: The user interface is intuitive and easy to use, making
 Customizable Profiles: You can create your own profile, add a profile picture, and set your status to let others know if you're available or busy.
 Group Chat: Create or join group chats to communicate with multiple people at once, making it perfect for team collaboration or chatting with friends.
 Private Messaging: Enjoy private, one-on-one conversations with friends or colleagues.
-File Sharing: Share files and images with your chat partners, simplifying collaboration and making conversations more engaging.
-Emojis and Stickers: Express yourself using a wide range of emojis and stickers.
 Message History: Easily access your chat history to refer back to important information or fun conversations.
-Offline Messages: If your chat partner is offline, they will receive your messages as soon as they log in.
 Getting Started
 To get started with the Network Chat Application, follow these simple steps:
 
-Installation: Download and install the application on your computer.
+Starting : Start the application server on your computer.
 
 Registration: Create a user account with a unique username and password.
 
@@ -24,28 +21,9 @@ Login: Log in to the application using your credentials.
 
 Adding Contacts: Start adding contacts by searching for their usernames or inviting them to join the app.
 
-Chatting: Begin conversations with your contacts by selecting them from your list and typing your messages.
+Chatting: Begin conversations with other registered contacts across your computer or other network by selecting them from your list and typing your messages.
 
 Group Chats: Create group chats and invite multiple contacts to join the conversation.
-
-File Sharing: Share files and images by clicking the attachment icon in the chat window.
-
-Emojis and Stickers: Express yourself with fun emojis and stickers available in the chat window.
-
-Customizing Your Profile: Personalize your profile by adding a profile picture and setting your status.
-
-Explore More: Discover the various features of the application to make the most of your chatting experience.
-
-Advanced Usage
-For those who want to delve deeper into the application's functionalities, we offer some advanced features:
-
-Security: Ensure your conversations remain private by enabling end-to-end encryption for your messages.
-
-Custom Themes: Customize the application's appearance by selecting from a variety of themes.
-
-Keyboard Shortcuts: Save time by using keyboard shortcuts for common actions.
-
-Notifications: Configure notification settings to stay informed of new messages, even when the app is minimized.
 
 # Support and Feedback
 If you encounter any issues, have questions, or want to provide feedback, we are here to help. Contact our support team at support@networkchatapp.com or visit our website at www.networkchatapp.com for more information.
